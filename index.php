@@ -10,10 +10,12 @@
     <h1>Hello World!</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem accusantium deleniti possimus aliquam ipsa ipsam alias, amet nisi voluptate iure natus sunt vitae. Odio, alias cupiditate iste quae harum quos.</p>
 <ul>
-    <li>Satu</li>
-    <li>Dua</li>
-    <li>Tiga</li>
-    <li>Empat</li></ul>
+   <li>One</li>
+   <li>Two</li>
+   <li>Three</li>
+   <li>Four</li>
+
+</ul>
 
 </body>
 </html>
