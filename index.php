@@ -14,8 +14,5 @@
    <li>Two</li>
    <li>Three</li>
    <li>Four</li>
-
-</ul>
-
 </body>
 </html>
