@@ -13,7 +13,10 @@
     <li>Satu</li>
     <li>Dua</li>
     <li>Tiga</li>
+<<<<<<< HEAD
     <li>Empat</li>
+=======
+>>>>>>> b956acf393209420abaef12bde69f5a826eeff10
 </ul>
 
 </body>
